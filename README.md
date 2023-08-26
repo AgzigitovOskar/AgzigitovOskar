@@ -41,15 +41,6 @@ Technologies I've been learning and using so far :
 </p>
 
 
-
-## Connect with me ☕ :
-
-<br>
-
-[![@oskar.agzigitov@yandex.ru](https://img.icons8.com/fluency/48/000000/apple-mail.png "@oskar.agzigitov@yandex.ru")](oskar.agzigitov@yandex.ru)
-
-<br>
-
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM2ZDhuYnowNHpyMXBrM3VvaXJuOWxncGZpb2I2MjZ4bnY1bmx3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pufOOG2cplDtfyQXL1/giphy.gif" width="150"/>
 </div>
