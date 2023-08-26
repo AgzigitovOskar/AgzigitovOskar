@@ -25,6 +25,6 @@ Technologies I've been learning and using so far :
 
 <br>
 
-(https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+79818537290")](tel:+79818537290) [![@oskar.agzigitov@yandex.ru](https://img.icons8.com/fluency/48/000000/apple-mail.png "@askar.agzigitov@yandex.ru")](oskar.agzigitov@yandex.ru)
+(https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+79818537290")](tel:+79818537290) [![@oskar.agzigitov@yandex.ru](https://img.icons8.com/fluency/48/000000/apple-mail.png "@oskar.agzigitov@yandex.ru")](oskar.agzigitov@yandex.ru)
 
 <br>
