@@ -32,6 +32,9 @@ Python backend developer 💻
     <p align="center">
 Technologies I've been learning and using so far :
 
+<p align="center">
+    </p>
+    <p align="center">
 - Programming languages : <br />
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/notes#python)
 
