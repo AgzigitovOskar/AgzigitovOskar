@@ -37,8 +37,8 @@ Technologies I've been learning and using so far :
     <p align="center">
 <br>     
 - Programming languages :
-<br />
-    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/notes#python)
+<br>
+[![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/notes#python)
 
 <br>
 
