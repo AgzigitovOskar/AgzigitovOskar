@@ -37,10 +37,8 @@ Technologies I've been learning and using so far :
 <br>
 
 
-<p align="center">
-    <img width="200" src="https://giphy.com/gifs/scaler-official-train-bug-production-pufOOG2cplDtfyQXL1">
-</p>
 
+![](https://giphy.com/gifs/scaler-official-train-bug-production-pufOOG2cplDtfyQXL1)
 
-
+<br>
 
