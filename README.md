@@ -1,6 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Oskar;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
+
 <p align="center">
     </p>
     <p align="center">
@@ -18,16 +19,37 @@ Python backend developer 💻
     <p align="center">
 Technologies I've been learning and using:
 <br>
+        
 <p align="center">
     </p>
-    <p align="center">
-<br>     
+    <p align="center">     
 Main language:
 
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    <br>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+
+<p align="center">
+Frameworks:
+
+
+<p align="center">
+Database:
+
+
+<p align="center">
+Used technologies:
+
+<p align="center">
+Version control:
+
+<p align="center">
+CI/CD:
+
+<p align="center">
+Documentation:
+
+    
+
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
