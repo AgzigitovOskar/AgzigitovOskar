@@ -31,7 +31,7 @@ Python backend developer 💻
     </p>
     <p align="center">
 Technologies I've been learning and using so far :
-
+<br>
 <p align="center">
     </p>
     <p align="center">
