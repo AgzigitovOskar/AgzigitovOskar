@@ -2,6 +2,9 @@
 
 
 ### Hey there! I'm Oskar
+<p align="center">
+    <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
+</p>
 
 <!--
 **AgzigitovOskar/AgzigitovOskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
