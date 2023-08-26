@@ -44,6 +44,10 @@ Technologies I've been learning and using so far :
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AgzigitovOskar&style=flat-square&color=blue" alt=""/>
+</a>
+</p>
 
 <p align="center">
 <a href="https://github.com/AgzigitovOskar">
