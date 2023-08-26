@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Technologies I've been learning and using so far :
+
+- Programming languages : <br />
+    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/notes#python)
