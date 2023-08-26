@@ -3,6 +3,7 @@
 <p align="center">
     Hey there! I'm Oskar
     </p>
+    <p align="center">
     <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
 </p>
 
