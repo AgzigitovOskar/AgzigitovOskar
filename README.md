@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Python backend developer
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
