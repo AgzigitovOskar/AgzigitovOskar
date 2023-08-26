@@ -32,6 +32,6 @@ Technologies I've been learning and using so far :
 
 <br>
 
-[![@079818537290](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@079818537290")](tel:079818537290) [![@oskar.agzigitov@yandex.ru](https://img.icons8.com/fluency/48/000000/apple-mail.png "@oskar.agzigitov@yandex.ru")](oskar.agzigitov@yandex.ru)
+[![@oskar.agzigitov@yandex.ru](https://img.icons8.com/fluency/48/000000/apple-mail.png "@oskar.agzigitov@yandex.ru")](oskar.agzigitov@yandex.ru)
 
 <br>
