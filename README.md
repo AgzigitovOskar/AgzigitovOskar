@@ -42,6 +42,12 @@ Technologies I've been learning and using so far :
 [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/notes#python)
 
 <br>
+- Main frameworks :
+        <br>
+        
+[![Django](https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg)
+
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
