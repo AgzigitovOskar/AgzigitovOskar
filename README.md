@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 Python backend developer 💻
 <br>
 
+<p align="center">
+    </p>
+    <p align="center">
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
