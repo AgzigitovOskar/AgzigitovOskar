@@ -44,9 +44,6 @@ Technologies I've been learning and using so far :
   <img src="https://media.giphy.com/media/pufOOG2cplDtfyQXL1/giphy-downsized-large.gif"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AgzigitovOskar&label=Views&color=blue&style=plastic" alt="AgzigitovOskar" /> </p>
-
-![COVERR](https://user-images.githubusercontent.com/55251741/126353432-0b5d8ec4-40bf-486e-bcae-7d0434ba435c.png)
 
 
 
