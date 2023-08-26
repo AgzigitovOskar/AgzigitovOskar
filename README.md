@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Python backend developer
+<br>
+
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
