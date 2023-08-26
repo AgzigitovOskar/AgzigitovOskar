@@ -3,7 +3,6 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Oskar;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
 
 <p align="center">
-    
     </p>
     <p align="center">
     <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
