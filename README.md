@@ -30,7 +30,7 @@ Python backend developer 💻
 <p align="center">
     </p>
     <p align="center">
-Technologies I've been learning and using so far :
+Technologies I've been learning and using:
 <br>
 <p align="center">
     </p>
@@ -44,8 +44,7 @@ Technologies I've been learning and using so far :
 <br>
 - Main frameworks :
         <br>
-        
-[![Django](https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg)
+    
 
 <br>
 
