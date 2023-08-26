@@ -42,7 +42,7 @@ Technologies I've been learning and using so far :
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/pufOOG2cplDtfyQXL1/giphy-downsized-large.gif" width="300"/>
+  <img src="https://media.giphy.com/media/pufOOG2cplDtfyQXL1/giphy-downsized-large.gif"/>
 </div>
 
 
