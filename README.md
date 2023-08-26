@@ -40,5 +40,3 @@ Technologies I've been learning and using so far :
 
 ![](https://giphy.com/gifs/scaler-official-train-bug-production-pufOOG2cplDtfyQXL1)
 
-<br>
-
