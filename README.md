@@ -1,5 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+
 <p align="center">
     Hey there! I'm Oskar
     </p>
@@ -37,6 +38,6 @@ Technologies I've been learning and using so far :
 <br>
 
 
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM2ZDhuYnowNHpyMXBrM3VvaXJuOWxncGZpb2I2MjZ4bnY1bmx3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pufOOG2cplDtfyQXL1/giphy.gif)
 
-![](https://giphy.com/gifs/scaler-official-train-bug-production-pufOOG2cplDtfyQXL1)
 
