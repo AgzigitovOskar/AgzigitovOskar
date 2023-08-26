@@ -1,7 +1,8 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <p align="center">
-    ### Hey there! I'm Oskar
+    Hey there! I'm Oskar
+    </p>
     <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
 </p>
 
