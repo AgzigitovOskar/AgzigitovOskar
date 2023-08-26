@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Python backend developer
+Python backend developer 💻
 <br>
 
 Technologies I've been learning and using so far :
@@ -30,6 +30,17 @@ Technologies I've been learning and using so far :
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/notes#python)
 
 <br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AgzigitovOskar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AgzigitovOskar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgzigitovOskar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 
 ## Connect with me ☕ :
 
