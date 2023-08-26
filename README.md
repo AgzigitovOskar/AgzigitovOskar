@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Oskar
 
 <!--
 **AgzigitovOskar/AgzigitovOskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,13 @@ Technologies I've been learning and using so far :
 
 - Programming languages : <br />
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)](https://dinhanhthi.com/notes#python)
+
+<br>
+
+## Connect with me ☕ :
+
+<br>
+
+(https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+79818537290")](tel:+79818537290) [![@oskar.agzigitov@yandex.ru](https://img.icons8.com/fluency/48/000000/apple-mail.png "@askar.agzigitov@yandex.ru")](skar.agzigitov@yandex.ru)
+
+<br>
