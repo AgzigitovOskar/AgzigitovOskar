@@ -35,3 +35,12 @@ Technologies I've been learning and using so far :
 [![@oskar.agzigitov@yandex.ru](https://img.icons8.com/fluency/48/000000/apple-mail.png "@oskar.agzigitov@yandex.ru")](oskar.agzigitov@yandex.ru)
 
 <br>
+
+
+    <p align="center">
+    <img width="200" src="https://giphy.com/gifs/scaler-official-train-bug-production-pufOOG2cplDtfyQXL1">
+</p>
+
+
+
+
