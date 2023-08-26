@@ -1,7 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Oskar;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
-
 <p align="center">
     </p>
     <p align="center">
@@ -44,6 +43,11 @@ Technologies I've been learning and using so far :
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/pufOOG2cplDtfyQXL1/giphy-downsized-large.gif"/>
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AgzigitovOskar&label=Views&color=blue&style=plastic" alt="AgzigitovOskar" /> </p>
+
+![COVERR](https://user-images.githubusercontent.com/55251741/126353432-0b5d8ec4-40bf-486e-bcae-7d0434ba435c.png)
+
 
 
 
