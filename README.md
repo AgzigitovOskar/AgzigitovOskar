@@ -24,7 +24,6 @@ Technologies I've been learning and using:
     </p>
     <p align="center">     
 Main language:
-
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     
@@ -32,8 +31,7 @@ Main language:
 Frameworks: 
 <p align="center">
 <img width="8%" alt="Django" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/djangoproject.svg"/>
-</p>
-<br/>
+
 
 <br/>
 <p align="center">
