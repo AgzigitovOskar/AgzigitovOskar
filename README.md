@@ -26,27 +26,34 @@ Technologies I've been learning and using:
 Main language:
 
 <p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    
 <p align="center">
-Frameworks:
+Frameworks: 
+<p align="center">
+<img width="8%" alt="Django" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/djangoproject.svg"/>
+</p>
+<br/>
 
-
+<br/>
 <p align="center">
 Database:
-
+<img src=""/>
 
 <p align="center">
 Used technologies:
-
+<img src=""/>
+    
 <p align="center">
 Version control:
-
+<img src=""/>
+    
 <p align="center">
 CI/CD:
 
 <p align="center">
 Documentation:
+<img src=""/>
 
     
 
