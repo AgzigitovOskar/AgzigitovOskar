@@ -46,8 +46,8 @@ Database:
 <p align="center">
 Used technologies:
 <p align="center">
-<img  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>
-<img  width="6%" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"/>
+<img  width="5%" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>
+<img  width="5%" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"/>
     
 <p align="center">
 Version control:
@@ -55,16 +55,13 @@ Version control:
 <img width="13%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     
 <p align="center">
-CI/CD:
-
-<p align="center">
 Other:
 <p align="center">
-<img width="8%" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img width="8%" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img width="9%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img width="8%" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-
+<img width="7%" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img width="7%" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img width="8%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img width="7%" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img width="10.5%" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img width="8%" src=""/>
 
 
