@@ -1,6 +1,11 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Oskar;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
+<div style="text-align: center;">
+    <p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Oskar;Welcome+to+my+Github+profile;" alt="Typing Animation Displays My Roles">
+    </a>
+</div>
 
 <p align="center">
     </p>
