@@ -35,10 +35,11 @@ Main language:
 <p align="center">
 Frameworks: 
 <p align="center">
+<img width="10%" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 <img width="10%" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 <img width="13%" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-"/>
 <img width="10%" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img width="10%" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+
 
 <br/>
 <p align="center">
