@@ -59,6 +59,7 @@ Used technologies:
 Version control:
 <p align="center">
 <img width="13%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="13%" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
     
 <p align="center">
 Other:
@@ -68,6 +69,7 @@ Other:
 <img width="8%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img width="7%" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 <img width="10.5%" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img width="13%" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
 
 
 <p align="center">
